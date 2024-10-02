@@ -1,5 +1,4 @@
 # Tattoo Shop Landing Page
-
 > Project Overview
 
 This project is a landing page for a tattoo shop, built as my second school coding project. It was developed using basic HTML and CSS to showcase the shop’s services and design aesthetic. The landing page is simple, clean, and responsive, with a focus on providing essential information to potential clients.
