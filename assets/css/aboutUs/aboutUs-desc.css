@@ -1,0 +1,17 @@
+.aboutus__desc {
+    color: #3e3d3d;
+    font-size: 1.75rem;
+    font-weight: 300;
+}
+
+@media screen and (min-width: 0) {
+    .aboutus__title {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .aboutus__title {
+        font-size: 2rem;
+    }
+}

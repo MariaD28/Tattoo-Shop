@@ -1,0 +1,13 @@
+.tattoo__desc {
+    font-size: 1.1875rem;
+    line-height: 1.25;
+    text-align: center;
+}
+
+.tattoo__desc.i {
+    font-style: italic;
+}
+
+#id-blackwork {
+    line-height: 1.40;
+}

@@ -1,0 +1,25 @@
+.person__image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 300px;
+    margin: 0 auto;     /* Use this property for setting 0 margin between images. Used to horizontally center an element within its parent container.*/
+    margin-right: 0;
+    width: 300px;
+}
+
+.person__image-Whang-Od {
+    background-image: url(../../img/people/whang-od.jpeg);
+
+}
+
+.person__image-Grace {
+    background-image: url(../../img/people/grace-buscalan.jpg);
+
+}
+
+.person__image-Rowell {
+    background-image: url(../../img/people/sinag-baybayin.jpg);
+
+}

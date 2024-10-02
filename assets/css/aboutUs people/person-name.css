@@ -1,0 +1,11 @@
+.person__name {
+    color: rgb(244, 65, 95);
+    display: inline-block;
+    font-family: Pacifico, cursive;
+    font-size: 32px;
+    margin: 1rem 0;
+}
+
+.person__name-Apo {
+    color: #8d0606;
+}

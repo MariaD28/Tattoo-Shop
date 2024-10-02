@@ -1,0 +1,6 @@
+.person__title {
+    color: black;
+    display: inline;
+    font-size: 1.25rem;
+    font-weight: bold;
+}

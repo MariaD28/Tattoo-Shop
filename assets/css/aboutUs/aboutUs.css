@@ -1,0 +1,11 @@
+.aboutus {
+    background: #bfbfbf;
+    background-attachment: fixed;
+    background-image: url(../../img/people/bg-img-tattoo.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 5rem;
+    position: relative;
+    text-align: center;
+}

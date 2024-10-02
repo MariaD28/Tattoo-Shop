@@ -1,0 +1,7 @@
+.tattoo__button {
+    background: rgb(244, 65, 95);
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 1rem;
+}
